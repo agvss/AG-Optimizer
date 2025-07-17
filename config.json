@@ -1,0 +1,13 @@
+{
+    "theme": "light",
+    "username": "Agust\u00edn",
+    "favorite_apps": [],
+    "scheduler": {},
+    "layout": {
+        "show_components": true,
+        "show_processes": true,
+        "show_startup": true,
+        "invert_columns": false
+    },
+    "onboarding_complete": true
+}

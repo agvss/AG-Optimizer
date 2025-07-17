@@ -1,0 +1,8 @@
+PySide6-Essentials
+psutil
+screen-brightness-control
+pycaw
+WMI
+pywin32
+Pillow
+pywinrt

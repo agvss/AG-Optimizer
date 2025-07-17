@@ -9,5 +9,11 @@
         "show_startup": true,
         "invert_columns": false
     },
-    "onboarding_complete": true
+    "onboarding_complete": true,
+    "user_notes": "",
+    "calendar_events": {
+        "2025-07-16": "\n",
+        "2025-07-14": "",
+        "2025-07-15": ""
+    }
 }
